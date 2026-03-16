@@ -1,7 +1,7 @@
 # AI & The Future of Work: 2024–2030
 ### A Tableau Data Story exploring AI's impact on the global job market
 
-📊 **[View the interactive Tableau Story on Tableau Public](https://public.tableau.com/views/ai_jobmarket/AITheFutureofWorkADataStory?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+**[View the interactive Tableau Story on Tableau Public](https://public.tableau.com/views/ai_jobmarket/AITheFutureofWorkADataStory?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
