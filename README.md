@@ -46,6 +46,15 @@ The goal is to demonstrate that the same dataset can tell meaningfully different
 | 4 | HR Director Dashboard: Workforce Planning 2024–2030 | HR Directors |
 | 5 | Germany Labour Market Outlook 2024–2030 | Policymakers |
 
+### Career Explorer
+![Career Changer Dashboard](screenshots/career_changer_db.png)
+
+### HR Director Dashboard
+![HR Director Dashboard](screenshots/hr_director.png)
+
+### Germany Labour Market Outlook
+![Policymaker Dashboard](screenshots/policy_maker.png)
+
 ---
 
 ## Dataset
@@ -209,6 +218,10 @@ ai-job-market-tableau/
 │   └── ai_job_trends_dataset.csv
 ├── notebooks/
 │   └── ai_job_market_exploration.ipynb
+├── screenshots/
+│   ├── career_changer_db.png
+│   ├── hr_director.png
+│   └── policy_maker.png
 └── tableau/
     └── ai_jobmarket.twbx
 ```
