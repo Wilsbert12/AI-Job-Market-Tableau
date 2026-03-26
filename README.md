@@ -203,6 +203,7 @@ In a production environment, data transformation and complex logic would be hand
 ```
 ai-job-market-tableau/
 │
+├── LICENSE
 ├── README.md
 ├── data/
 │   └── ai_job_trends_dataset.csv
